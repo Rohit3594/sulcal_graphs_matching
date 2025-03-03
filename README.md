@@ -23,7 +23,7 @@ These dependencies are mandatory for the implementation of scripts provided:
 `python script_generation_graphs_with_edges_permutation_updated.py`
 
 
-### Cite
+### Cite Bibtex
 @article{yadav2023population,
   title={Population-wise labeling of sulcal graphs using multi-graph matching},
   author={Yadav, Rohit and Dup{\'e}, Fran{\c{c}}ois-Xavier and Takerkart, Sylvain and Auzias, Guillaume},
